@@ -1,0 +1,6 @@
+*
+!.gitignore
+!src/*.py
+!CMakeLists.txt
+!package.xml
+!README.md
